@@ -2,7 +2,7 @@
 
 ¡Hola a todos y todas! 👋
 
-Estoy emocionada de compartir nuestro primer proyecto del Bootcamp de Data Analyst de **Adalab**, promoción **Hedy Lamarr**. Junto a mis increíbles compañeras [Sharon Armeni](https://www.linkedin.com/in/sharon-armeni/), Lidia Fraile Martin, Patricia Elena González Gruber, Paola Jineth Sánchez Solórzano y [Mábel Martínez Rodríguez](https://www.linkedin.com/in/mabelmr), hemos trabajado arduamente en **Juegos Clásicos en Python**. 💪👩‍💻
+Estoy emocionada de compartir nuestro primer proyecto del Bootcamp de Data Analyst de **Adalab**, promoción **Hedy Lamarr**. Junto a mis increíbles compañeras [Sharon Armeni](https://www.linkedin.com/in/sharon-armeni/), Lidia Fraile Martin, [Patricia Elena González Gruber](https://www.linkedin.com/in/patricia-gonzalez-gruber/), [Paola Jineth Sánchez Solórzano](https://www.linkedin.com/in/paola-s%C3%A1nchez-sol%C3%B3rzano-5a05751b4/) y [Mábel Martínez Rodríguez](https://www.linkedin.com/in/mabelmr), hemos trabajado arduamente en **Juegos Clásicos en Python**. 💪👩‍💻
 
 ## 🌟 **Descripción del Proyecto** 🌟
 
